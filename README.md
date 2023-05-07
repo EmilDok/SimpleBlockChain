@@ -1,7 +1,7 @@
 # SimpleBlockChain
 Это маленькая, но проворная BlockChain, написанная на Node.js
 
-[![main](https://github.com/EmilDok/SimpleBlockChain/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/EmilDok/MiniButNimbleBlockChain/actions/workflows/test.yml) main
+[![main](https://github.com/EmilDok/SimpleBlockChain/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/EmilDok/SimpleBlockChain/actions/workflows/test.yml) main
 
 Основные сущности:
 1. Block.js - класс для генерации блоков цепочки блокчейна, состоящих из следующих полей:
@@ -30,6 +30,6 @@
 
 ---
 ### Процесс работы
-![alt text](https://github.com/EmilDok/SimpleBlockChain/blob/develop/exp_img.png?raw=true)
+![alt text](https://github.com/EmilDok/SimpleBlockChain/blob/main/exp_img.png?raw=true)
 
 Node_0 генерирует первый блок и отправляет Node_1 и Node_2 и себе, как только первый блок добавлен, начинается майнинг следующих блоков и рассыдка их всем нодам, включая себя
